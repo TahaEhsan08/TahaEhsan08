@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TahaEhsan08
+- 👋 Hi, I’m Taha
 - 👀 I’m interested in CS, mechatronics, ways to make myself better, and stocks
 - 🌱 I’m currently learning JavaScript, Python, HTML, CSS, and working on developing a personal website
 - 💞️ I’m looking to collaborate on projects and create a game
